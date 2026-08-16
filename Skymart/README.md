@@ -1,7 +1,8 @@
 # Skymart Analytics
 
 ## Data Prep
-Raw synthetic data loaded from CSV to different technologies to simulate different data sources
+### Raw synthetic data loaded from CSV to different technologies to simulate different data sources
+#### CSV to PostgreSQL
 
 <img width="283" height="343" alt="image" src="https://github.com/user-attachments/assets/5c12e957-74da-4c00-8b09-34624a9c6cea" />
 
