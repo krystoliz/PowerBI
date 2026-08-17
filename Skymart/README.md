@@ -16,3 +16,7 @@
 
 ### ETL on both PostgreSQL database and Excel workbook
 <img width="1715" height="832" alt="image" src="https://github.com/user-attachments/assets/48e897e6-1367-4d8f-a8ee-2553f76c1763" />
+
+### Further data prep
+#### Duplicates and Missing Values Documentation on Power Query
+<img width="697" height="942" alt="image" src="https://github.com/user-attachments/assets/d33b0ee2-7b5d-4737-8f56-a3b2e928efc2" />
