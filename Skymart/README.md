@@ -10,3 +10,6 @@
 
 ### Data connection setup preparation
 <img width="951" height="822" alt="image" src="https://github.com/user-attachments/assets/3a75b466-6bcc-42dd-8e32-7b996d800e20" />
+
+### PostgreSQL - Power BI connection setup
+<img width="1091" height="867" alt="image" src="https://github.com/user-attachments/assets/cd8553d8-47b8-421a-9dda-ebaf04b027d9" />
