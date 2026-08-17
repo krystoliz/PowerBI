@@ -13,3 +13,6 @@
 
 ### PostgreSQL - Power BI connection setup
 <img width="1091" height="867" alt="image" src="https://github.com/user-attachments/assets/cd8553d8-47b8-421a-9dda-ebaf04b027d9" />
+
+### ETL on both PostgreSQL database and Excel workbook
+<img width="1715" height="832" alt="image" src="https://github.com/user-attachments/assets/48e897e6-1367-4d8f-a8ee-2553f76c1763" />
